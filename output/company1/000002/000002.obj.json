@@ -1,0 +1,48 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "78-055-0849",
+  "taxFormId" : "4592628",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0325103",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Becker, Marquardt and Bashirian"
+    },
+    "address" : {
+      "line1" : "494 Okuneva Lodge",
+      "city" : "Satterfieldport",
+      "region" : "MA",
+      "postalCode" : "40749"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "karrie.wunsch@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-28-9472",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Ezekiel",
+      "last" : "Heathcote"
+    },
+    "address" : {
+      "line1" : "271 Sandi Mission",
+      "city" : "Towneton",
+      "region" : "IA",
+      "postalCode" : "35143"
+    },
+    "email" : "alfonso.purdy@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "700-34667-2",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "distributionCode" : "distributionCode",
+  "fairMarketValue" : 400,
+  "hsa" : true,
+  "archerAccount" : true,
+  "medicalSavingsAccount" : true
+}
