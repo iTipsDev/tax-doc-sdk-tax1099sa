@@ -1,0 +1,56 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "47-748-6808",
+  "taxFormId" : "6679573",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0048639",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Parker-Dooley"
+    },
+    "address" : {
+      "line1" : "420 Oliver Mission",
+      "city" : "North Lawrenceport",
+      "region" : "KS",
+      "postalCode" : "22180",
+      "unitType" : "Apt",
+      "unitNumber" : "410"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "mardell.klein@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-78-2840",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Dannie",
+      "middle" : "Wally",
+      "last" : "Abernathy"
+    },
+    "businessName" : {
+      "name1" : "Gusikowski, Terry and Pfannerstill"
+    },
+    "address" : {
+      "line1" : "00377 Littel Gardens",
+      "city" : "Freemanview",
+      "region" : "SC",
+      "postalCode" : "93496",
+      "unitType" : "Apt",
+      "unitNumber" : "467"
+    },
+    "email" : "christoper.mclaughlin@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "590-52418-0",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "distributionCode" : "A",
+  "fairMarketValue" : 400,
+  "hsa" : true,
+  "archerAccount" : true,
+  "medicalSavingsAccount" : true
+}

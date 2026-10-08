@@ -1,0 +1,56 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "79-555-5104",
+  "taxFormId" : "9053862",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0048639",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Parker-Dooley"
+    },
+    "address" : {
+      "line1" : "420 Oliver Mission",
+      "city" : "North Lawrenceport",
+      "region" : "KS",
+      "postalCode" : "22180",
+      "unitType" : "Apt",
+      "unitNumber" : "410"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "mardell.klein@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-84-4283",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Raymon",
+      "middle" : "Vasiliki",
+      "last" : "Nicolas"
+    },
+    "businessName" : {
+      "name1" : "Mante, Rau and Hahn"
+    },
+    "address" : {
+      "line1" : "59237 Daugherty Light",
+      "city" : "East Grantburgh",
+      "region" : "RI",
+      "postalCode" : "45392",
+      "unitType" : "Apt",
+      "unitNumber" : "807"
+    },
+    "email" : "dexter.heller@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "653-92970-1",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "distributionCode" : "D",
+  "fairMarketValue" : 400,
+  "hsa" : true,
+  "archerAccount" : true,
+  "medicalSavingsAccount" : true
+}

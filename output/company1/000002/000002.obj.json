@@ -1,0 +1,56 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "97-624-9675",
+  "taxFormId" : "9567473",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0048639",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Parker-Dooley"
+    },
+    "address" : {
+      "line1" : "420 Oliver Mission",
+      "city" : "North Lawrenceport",
+      "region" : "KS",
+      "postalCode" : "22180",
+      "unitType" : "Apt",
+      "unitNumber" : "410"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "mardell.klein@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-67-4762",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Dante",
+      "middle" : "Asa",
+      "last" : "Kutch"
+    },
+    "businessName" : {
+      "name1" : "Brakus Group"
+    },
+    "address" : {
+      "line1" : "043 Shani Parkway",
+      "city" : "Port Orlando",
+      "region" : "MI",
+      "postalCode" : "74472",
+      "unitType" : "Apt",
+      "unitNumber" : "370"
+    },
+    "email" : "zackary.robel@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "777-36581-1",
+  "grossDistribution" : 200,
+  "earnings" : 300,
+  "distributionCode" : "B",
+  "fairMarketValue" : 400,
+  "hsa" : true,
+  "archerAccount" : true,
+  "medicalSavingsAccount" : true
+}
